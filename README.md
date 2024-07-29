@@ -64,5 +64,5 @@ This dashboard provides a comprehensive analysis of retail store sales for the y
 
 This dashboard provides a detailed analysis of retail store sales for the year 2022, helping stakeholders understand sales performance across various dimensions. The interactive filters enhance usability, allowing users to drill down into specific data points for more granular insights.
 
-Citations:
-[1] https://pplx-res.cloudinary.com/image/upload/v1721120292/user_uploads/jbvuywrwf/image.jpg
+![image](https://github.com/user-attachments/assets/88f6c68f-2b2a-4627-bff3-61521f83e40f)
+
